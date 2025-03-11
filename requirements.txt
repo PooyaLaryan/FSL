@@ -1,4 +1,5 @@
 tensorflow
-tensorflow-datasets
 matplotlib
 pandas
+numpy
+scikit-learn
